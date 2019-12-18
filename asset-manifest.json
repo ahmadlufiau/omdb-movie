@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/omdb-movie/static/css/main.7424e251.chunk.css",
+    "main.js": "/omdb-movie/static/js/main.fcb6ae0b.chunk.js",
+    "main.js.map": "/omdb-movie/static/js/main.fcb6ae0b.chunk.js.map",
+    "runtime-main.js": "/omdb-movie/static/js/runtime-main.06d23e60.js",
+    "runtime-main.js.map": "/omdb-movie/static/js/runtime-main.06d23e60.js.map",
+    "static/js/2.643ae7bf.chunk.js": "/omdb-movie/static/js/2.643ae7bf.chunk.js",
+    "static/js/2.643ae7bf.chunk.js.map": "/omdb-movie/static/js/2.643ae7bf.chunk.js.map",
+    "index.html": "/omdb-movie/index.html",
+    "precache-manifest.e81a837d03ff5be52b6c4df0f08487fb.js": "/omdb-movie/precache-manifest.e81a837d03ff5be52b6c4df0f08487fb.js",
+    "service-worker.js": "/omdb-movie/service-worker.js",
+    "static/css/main.7424e251.chunk.css.map": "/omdb-movie/static/css/main.7424e251.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06d23e60.js",
+    "static/js/2.643ae7bf.chunk.js",
+    "static/css/main.7424e251.chunk.css",
+    "static/js/main.fcb6ae0b.chunk.js"
+  ]
+}
